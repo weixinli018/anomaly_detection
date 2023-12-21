@@ -1,5 +1,5 @@
 # UCSD Anomaly Detection
-This is the github project page for UCSD Anomaly Detection and Localization in Crowded Scenes.
+This is the github page for project [UCSD Anomaly Detection and Localization in Crowded Scene](http://www.svcl.ucsd.edu/projects/anomaly/).
 
 ## Dataset
 The UCSD anomaly detection dataset (originating from the [SVCL webpage](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)) can be accessed here.
